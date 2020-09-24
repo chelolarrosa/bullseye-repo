@@ -1,0 +1,25 @@
+.home-cms {
+  @extend .container;
+}
+
+.home-cms-page-banner-bottom-content {
+  @extend .clearfix;
+}
+.home-cms-page-banner-bottom {
+  @extend .col-sm-4;
+}
+.home-cms-page-banner-bottom-main {
+  @extend .col-sm-12;
+}
+
+.slideshow-cct-container .bx-pager a {
+  color: white !important;
+  background-color: black;
+  width: 100% !important;
+  height: auto !important;
+  margin: 0 !important;
+  opacity: 1 !important;
+  border-radius: 0 !important;
+  font-size: 14px !important;
+  text-indent: unset !important;
+}
